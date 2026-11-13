@@ -1,2 +1,2 @@
-# rosterio-unduhan
-Unduhan pemasang rosterio untuk sekolah
+# kalapala-unduhan
+Unduhan pemasang kalapala untuk sekolah
